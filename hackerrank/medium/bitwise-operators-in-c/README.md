@@ -77,15 +77,14 @@ The only line contains $2$ space-separated integers, $n$ and $k$.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-04T10:44:52.181Z  
+**Submitted:** 2026-10-07T16:39:48.434Z  
 
 ```c
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-//Complete the following function.
-
+// Complete the following function.
 
 void calculate_the_maximum(int n, int k) {
     int max_and = 0;
