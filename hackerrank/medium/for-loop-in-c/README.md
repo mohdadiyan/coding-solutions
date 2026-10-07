@@ -52,7 +52,7 @@ Print the appropriate English representation,`even`, or `odd`, based on the cond
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-04T10:39:16.951Z  
+**Submitted:** 2026-10-07T16:38:15.523Z  
 
 ```c
 #include <stdio.h>
@@ -64,7 +64,7 @@ Print the appropriate English representation,`even`, or `odd`, based on the cond
 
 
 
-  int main() {
+int main() {
     int a, b;
 
     scanf("%d %d", &a, &b);
@@ -96,7 +96,6 @@ Print the appropriate English representation,`even`, or `odd`, based on the cond
 
     return 0;
 }
-
 
 
 ```
